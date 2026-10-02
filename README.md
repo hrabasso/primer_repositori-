@@ -1,2 +1,4 @@
-# primer_repositori-
-primer repositor smx2 2026
+# Projecte
+
+## Hector Rabasso Lopez 
+## SMXB2
